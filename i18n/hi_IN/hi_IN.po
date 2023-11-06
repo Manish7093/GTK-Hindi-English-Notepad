@@ -1,0 +1,129 @@
+# Hindi translations for PACKAGE package.
+# Copyright (C) 2023 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Violow <violow@buddy>, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-05 04:07+0530\n"
+"PO-Revision-Date: 2023-11-05 02:12+0530\n"
+"Last-Translator: Violow <violow@buddy>\n"
+"Language-Team: Hindi <fedora-trans-hi@redhat.com>\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/gtk-notepad.c:31 src/gtk-notepad.c:36
+msgid " - GTK Notepad"
+msgstr " - जीटीके नोटपैड"
+
+#: src/gtk-notepad.c:49
+msgid "0.1"
+msgstr "0.1"
+
+#: src/gtk-notepad.c:68
+msgid "Cancel"
+msgstr "रद्द करें"
+
+#: src/gtk-notepad.c:399
+msgid "Cu_t"
+msgstr "कट_"
+
+#: src/gtk-notepad.c:69
+msgid "File has been modified"
+msgstr "फ़ाइल में परिवर्तन किया गया है"
+
+#: src/gtk-notepad.c:66
+msgid "File has been modified. Do you want to save it?"
+msgstr "फ़ाइल में परिवर्तन किया गया है. क्या आप इसे सहेजना चाहते हैं?"
+
+#: src/gtk-notepad.c:48
+msgid "GTK Notepad"
+msgstr "जीटीके नोटपैड"
+
+#: src/gtk-notepad.c:50
+msgid "GTK Notepad is a text editing program written in C and GTK."
+msgstr "जीटीके नोटपैड एक सी और जीटीके में लिखा गया टेक्स्ट संपादन प्रोग्राम है।"
+
+#: src/gtk-notepad.c:271
+msgid "Open a file"
+msgstr "एक फ़ाइल खोलें"
+
+#: src/gtk-notepad.c:394
+msgid "Save _as..."
+msgstr "बचाएं _जैसे..."
+
+#: src/gtk-notepad.c:348
+msgid "Save the file"
+msgstr "फ़ाइल सहेजें"
+
+#: src/gtk-notepad.c:158
+msgid "Select a font"
+msgstr "फ़ॉन्ट चुनें"
+
+#: src/gtk-notepad.c:209
+msgid "Untitled - GTK Notepad"
+msgstr "अनटाइटल्ड - जीटीके नोटपैड"
+
+#: src/gtk-notepad.c:411
+msgid "_About"
+msgstr "_जानकारी"
+
+#: src/gtk-notepad.c:400
+msgid "_Copy"
+msgstr "_कॉपी"
+
+#: src/gtk-notepad.c:402
+msgid "_Delete"
+msgstr "_हटाएं"
+
+#: src/gtk-notepad.c:398
+msgid "_Edit"
+msgstr "_संपादन"
+
+#: src/gtk-notepad.c:390
+msgid "_File"
+msgstr "_फाइल"
+
+#: src/gtk-notepad.c:407
+msgid "_Font..."
+msgstr "_फ़ॉन्ट..."
+
+#: src/gtk-notepad.c:410
+msgid "_Help"
+msgstr "_सहायता"
+
+#: src/gtk-notepad.c:391
+msgid "_New"
+msgstr "_नई"
+
+#: src/gtk-notepad.c:392
+msgid "_Open"
+msgstr "_खोलें"
+
+#: src/gtk-notepad.c:401
+msgid "_Paste"
+msgstr "_पेस्ट"
+
+#: src/gtk-notepad.c:395
+msgid "_Quit"
+msgstr "_बाहर निकलें"
+
+#: src/gtk-notepad.c:393
+msgid "_Save"
+msgstr "_सहेजें"
+
+#: src/gtk-notepad.c:403
+msgid "_Select All"
+msgstr "_सभी चुनें"
+
+#: src/gtk-notepad.c:404
+msgid "_Time/Date"
+msgstr "_समय/तिथि"
+
+#: src/gtk-notepad.c:405
+msgid "_Wrap long lines"
+msgstr "_लंबी लाइनों को लपेटें"
