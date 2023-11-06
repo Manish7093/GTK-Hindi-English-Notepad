@@ -1,0 +1,130 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-05 04:07+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/gtk-notepad.c:31 src/gtk-notepad.c:36
+msgid " - GTK Notepad"
+msgstr ""
+
+#: src/gtk-notepad.c:49
+msgid "0.1"
+msgstr ""
+
+#: src/gtk-notepad.c:68
+msgid "Cancel"
+msgstr ""
+
+#: src/gtk-notepad.c:399
+msgid "Cu_t"
+msgstr ""
+
+#: src/gtk-notepad.c:69
+msgid "File has been modified"
+msgstr ""
+
+#: src/gtk-notepad.c:66
+msgid "File has been modified. Do you want to save it?"
+msgstr ""
+
+#: src/gtk-notepad.c:48
+msgid "GTK Notepad"
+msgstr ""
+
+#: src/gtk-notepad.c:50
+msgid "GTK Notepad is a text editing program written in C and GTK."
+msgstr ""
+
+#: src/gtk-notepad.c:271
+msgid "Open a file"
+msgstr ""
+
+#: src/gtk-notepad.c:394
+msgid "Save _as..."
+msgstr ""
+
+#: src/gtk-notepad.c:348
+msgid "Save the file"
+msgstr ""
+
+#: src/gtk-notepad.c:158
+msgid "Select a font"
+msgstr ""
+
+#: src/gtk-notepad.c:209
+msgid "Untitled - GTK Notepad"
+msgstr ""
+
+#: src/gtk-notepad.c:411
+msgid "_About"
+msgstr ""
+
+#: src/gtk-notepad.c:400
+msgid "_Copy"
+msgstr ""
+
+#: src/gtk-notepad.c:402
+msgid "_Delete"
+msgstr ""
+
+#: src/gtk-notepad.c:398
+msgid "_Edit"
+msgstr ""
+
+#: src/gtk-notepad.c:390
+msgid "_File"
+msgstr ""
+
+#: src/gtk-notepad.c:407
+msgid "_Font..."
+msgstr ""
+
+#: src/gtk-notepad.c:410
+msgid "_Help"
+msgstr ""
+
+#: src/gtk-notepad.c:391
+msgid "_New"
+msgstr ""
+
+#: src/gtk-notepad.c:392
+msgid "_Open"
+msgstr ""
+
+#: src/gtk-notepad.c:401
+msgid "_Paste"
+msgstr ""
+
+#: src/gtk-notepad.c:395
+msgid "_Quit"
+msgstr ""
+
+#: src/gtk-notepad.c:393
+msgid "_Save"
+msgstr ""
+
+#: src/gtk-notepad.c:403
+msgid "_Select All"
+msgstr ""
+
+#: src/gtk-notepad.c:404
+msgid "_Time/Date"
+msgstr ""
+
+#: src/gtk-notepad.c:405
+msgid "_Wrap long lines"
+msgstr ""
